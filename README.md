@@ -29,10 +29,11 @@ detection,” Pattern Recognition, vol. 106, p. 107404, 2020
 
 ![](u2netexamples.png)
 
-# U2NET Model
-
-![](U2NETPRmodel.png)
 
 # Details about U-2-Net
 The following is an excerpt from the paper:
 *'In this paper, we design a simple yet powerful deep network architecture, U2-Net, for salient object detection (SOD). The architecture of our U2-Net is a two-level nested U-structure. The design has the following advantages: (1) it is able to capture more contextual information from different scales thanks to the mixture of receptive fields of different sizes in our proposed ReSidual U-blocks (RSU), (2) it increases the depth of the whole architecture without significantly increasing the computational cost because of the pooling operations used in these RSU blocks. This architecture enables us to train a deep network from scratch without using backbones from image classification tasks. We instantiate two models of the proposed architecture, U2-Net (176.3 MB, 30 FPS on GTX 1080Ti GPU) and U2-Net† (4.7 MB, 40 FPS), to facilitate the usage in different environments. Both models achieve competitive performance on six SOD datasets.'*
+
+# U2NET Model
+
+![](U2NETPRmodel.png)
