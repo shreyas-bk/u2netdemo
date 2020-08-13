@@ -2,6 +2,7 @@
 Demonstration using Google Colab to show how U-2-NET can be used for Background Removal, Boudning Box Creation and Salient Feature Highlighting
 
 # Link: [Open Google Colab Notebook](https://colab.research.google.com/github/shreyas-bk/U-2-Net-Demo/blob/master/U_2_Netp_Demonstration_Colab.ipynb)
+
 **Click this link for step-by-sep instructions: ** [Open Google Colab Notebook](https://colab.research.google.com/github/shreyas-bk/U-2-Net-Demo/blob/master/DEMOS/U_2_Netp_Step_by_Step_Demonstration_Colab.ipynb)
 
 # Example Results
