@@ -13,7 +13,7 @@ Cat:
 Formula 1 Car:
 ![](U_2_NETP_Results2.jpg)
 
-Rick:
+Rick Astley:
 ![](U_2_NETP_Results3.jpg)
 
 # Useful material
