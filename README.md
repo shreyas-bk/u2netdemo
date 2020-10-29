@@ -40,8 +40,10 @@ The following is an excerpt from the paper:
 
 ![](U2NETPRmodel.png)
 
+UPDATES:
+ - implemented quick fix for ipynb.checkpoints error
+
 TODO:
-- re-upload of image files causes ipynb.checkpoints file to be created, find a workaround for that
 - support .jpeg images
 - upload python code for webcam support
 - add license to nbs
