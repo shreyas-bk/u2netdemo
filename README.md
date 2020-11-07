@@ -8,7 +8,7 @@ Demonstration using Google Colab to show how U-2-NET can be used for Background 
 # Example Results
 
 Cat:
-![](assets/U_2_NETP_Results1.jpg)
+![](Assets/U_2_NETP_Results1.jpg)
 
 Formula 1 Car:
 ![](U_2_NETP_Results2.jpg)
