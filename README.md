@@ -11,10 +11,10 @@ Cat:
 ![](Assets/U_2_NETP_Results1.jpg)
 
 Formula 1 Car:
-![](U_2_NETP_Results2.jpg)
+![](Assets/U_2_NETP_Results2.jpg)
 
 Rick Astley:
-![](U_2_NETP_Results3.jpg)
+![](Assets/U_2_NETP_Results3.jpg)
 
 # Useful material
 
@@ -29,7 +29,7 @@ detection,” Pattern Recognition, vol. 106, p. 107404, 2020
 
 # Other Results
 
-![](u2netexamples.png)
+![](Assets/u2netexamples.png)
 
 
 # Details about U-2-Net
@@ -38,7 +38,7 @@ The following is an excerpt from the paper:
 
 # U2NET Model
 
-![](U2NETPRmodel.png)
+![](Assets/U2NETPRmodel.png)
 
 UPDATES:
  - implemented quick fix for ipynb.checkpoints error
