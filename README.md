@@ -47,3 +47,5 @@ TODO:
 - support .jpeg images
 - upload python code for webcam support
 - add license to nbs
+
+**Please feel free to suggest changes to improve this repository**
