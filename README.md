@@ -47,5 +47,6 @@ TODO:
 - support .jpeg images
 - upload python code for webcam support
 - add license to nbs
+- maybe make a webpage for bounding box creation over large datasets
 
 **Please feel free to suggest changes to improve this repository**
