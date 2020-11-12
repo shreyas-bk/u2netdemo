@@ -44,6 +44,7 @@ UPDATES:
  - implemented quick fix for ipynb.checkpoints error
 
 TODO:
+- change backgrounds
 - support .jpeg images
 - upload python code for webcam support
 - add license to nbs
