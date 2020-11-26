@@ -8,13 +8,13 @@ Demonstration using Google Colab to show how U-2-NET can be used for Background 
 # Example Results
 
 Cat:
-![](U_2_NETP_Results1.jpg)
+![](Assets/U_2_NETP_Results1.jpg)
 
 Formula 1 Car:
-![](U_2_NETP_Results2.jpg)
+![](Assets/U_2_NETP_Results2.jpg)
 
 Rick Astley:
-![](U_2_NETP_Results3.jpg)
+![](Assets/U_2_NETP_Results3.jpg)
 
 # Useful material
 
@@ -29,7 +29,7 @@ detection,” Pattern Recognition, vol. 106, p. 107404, 2020
 
 # Other Results
 
-![](u2netexamples.png)
+![](Assets/u2netexamples.png)
 
 
 # Details about U-2-Net
@@ -38,10 +38,16 @@ The following is an excerpt from the paper:
 
 # U2NET Model
 
-![](U2NETPRmodel.png)
+![](Assets/U2NETPRmodel.png)
+
+UPDATES:
+ - implemented quick fix for ipynb.checkpoints error
 
 TODO:
-- re-upload of image files causes ipynb.checkpoints file to be created, find a workaround for that
+- change backgrounds
 - support .jpeg images
 - upload python code for webcam support
 - add license to nbs
+- maybe make a webpage for bounding box creation over large datasets
+
+**Please feel free to suggest changes to improve this repository**
