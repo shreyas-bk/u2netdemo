@@ -42,9 +42,10 @@ The following is an excerpt from the paper:
 
 UPDATES:
  - implemented quick fix for ipynb.checkpoints error
+ - change background in step by step file
 
 TODO:
-- change backgrounds
+- change backgrounds for main notebook
 - support .jpeg images
 - upload python code for webcam support
 - add license to nbs
