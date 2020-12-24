@@ -3,7 +3,7 @@ Demonstration using Google Colab to show how U-2-NET can be used for Background 
 
 # Link: [Open Google Colab Notebook](https://colab.research.google.com/github/shreyas-bk/U-2-Net-Demo/blob/master/DEMOS/U_2_Netp_Demonstration_Colab.ipynb)
 
-**Click this link for step-by-sep instructions:** [Open Google Colab Notebook](https://colab.research.google.com/github/shreyas-bk/U-2-Net-Demo/blob/master/DEMOS/U_2_Netp_Step_by_Step_Demonstration_Colab.ipynb) {Use this to save your results too}
+**Click this link for step-by-sep instructions:** [Open Google Colab Notebook](https://colab.research.google.com/github/shreyas-bk/U-2-Net-Demo/blob/master/DEMOS/U_2_Netp_Step_by_Step_Demonstration_Colab_v2.ipynb) {Use this to save your results too} {update: now with code to change background}
 
 # Example Results
 
