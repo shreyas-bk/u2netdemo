@@ -16,6 +16,10 @@ Formula 1 Car:
 Rick Astley:
 ![](Assets/U_2_NETP_Results3.jpg)
 
+Background Changed:
+
+<img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_background_changed.png" width="350" />
+
 # Useful material
 
 **U-2-NET Paper:** [U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/abs/2005.09007)
