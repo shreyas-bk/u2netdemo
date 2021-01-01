@@ -18,7 +18,7 @@ Rick Astley:
 
 Background Changed:
 
-<img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_background_changed.png" width="350" />
+<img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_background_changed.png" width="250" />
 
 # Useful material
 
