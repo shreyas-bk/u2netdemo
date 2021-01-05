@@ -2,7 +2,7 @@
 Demonstration using Google Colab to show how U-2-NET can be used for Background Removal, Changing Backgrounds, Bounding Box Creation and Salient Feature Highlighting
 
 # UPDATES: new - Keras saved models available
- - [Jan 05, 2021] - Keras .h5 saved models available in new [repository](https://github.com/shreyas-bk/U-2-Net-Keras) following this [issue](https://github.com/shreyas-bk/U-2-Net-Demo/issues/9) 
+ - [Jan 05, 2021] - Keras .h5 saved models available in new [repository](https://github.com/shreyas-bk/U-2-Net-Keras) following this [issue](https://github.com/shreyas-bk/U-2-Net-Demo/issues/9) Note: if there are any new requests for a TensorFlow saved model, I will upload
  - [Dec 24, 2020] - change background in step by step file: [commit](https://github.com/shreyas-bk/U-2-Net-Demo/commit/71c0c8ba726bcfa1c97ddb513265ef9deede1df1)
  - [Oct 29, 2020] - implemented quick fix for ipynb.checkpoints error: [commit](https://github.com/shreyas-bk/U-2-Net-Demo/commit/f059e696e0ce6f6512486fbf6e9237700b710987)
 
