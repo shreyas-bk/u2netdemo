@@ -28,6 +28,11 @@ Background Changed:
 
 <img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_background_changed.png" width="250" />
 
+Bacground Removed and Image Cropped:
+
+<img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_cropped_no-bg_mask.jpg" width="150" />  <img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_cropped_no-bg.jpg" width="150" />
+
+
 # Useful material
 
 **U-2-NET Paper:** [U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/abs/2005.09007)
