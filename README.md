@@ -3,7 +3,7 @@ Demonstration using Google Colab to show how U-2-NET can be used for Background 
 
 # UPDATES: new - Salient Object Cropping notebook available
  - [Jan 11, 2021] - Salient Object Cropping notebook is now available following this [PR](https://github.com/shreyas-bk/U-2-Net/pull/1), thanks to the contribution from [**Norod**](https://github.com/Norod)!
- - [Jan 05, 2021] - **Keras .h5 saved models available** in new [repository](https://github.com/shreyas-bk/U-2-Net-Keras) following this [issue](https://github.com/shreyas-bk/U-2-Net-Demo/issues/9) Note: if there are any new requests for a TensorFlow saved model, I will upload
+ - [Jan 05, 2021] - **Keras .h5 saved models available** in new [repository](https://github.com/shreyas-bk/U-2-Net-Keras) following this [issue](https://github.com/shreyas-bk/U-2-Net-Demo/issues/9) *Note: if there are any new requests for a TensorFlow saved model, I will upload*
  - [Dec 24, 2020] - change background in step by step file: [commit](https://github.com/shreyas-bk/U-2-Net-Demo/commit/71c0c8ba726bcfa1c97ddb513265ef9deede1df1)
  - [Oct 29, 2020] - implemented quick fix for ipynb.checkpoints error: [commit](https://github.com/shreyas-bk/U-2-Net-Demo/commit/f059e696e0ce6f6512486fbf6e9237700b710987)
 
@@ -28,9 +28,9 @@ Background Changed:
 
 <img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_background_changed.png" width="250" />
 
-Bacground Removed and Image Cropped:
+Bacground Removed and Image Cropped (Mask and Resulting Image):
 
-<img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_cropped_no-bg_mask.jpg" width="150" />  <img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_cropped_no-bg.jpg" width="150" />
+<img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_cropped_no-bg_mask.jpg" width="150" />              <img src="https://github.com/shreyas-bk/U-2-Net-Demo/blob/master/Assets/U_2_NETP_IMAGE3_cropped_no-bg.jpg" width="150" />
 
 
 # Useful material
