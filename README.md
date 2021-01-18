@@ -61,6 +61,7 @@ TODO:
 - change backgrounds for main notebook
 - support .jpeg images
 - upload python code for webcam support
+- add demo for portrait feature of U-2-Net
 - add license to nbs
 - maybe make a webpage for bounding box creation over large datasets
 
