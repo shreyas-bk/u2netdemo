@@ -60,6 +60,7 @@ The following is an excerpt from the paper:
 ![](Assets/U2NETPRmodel.png)
 
 TODO:
+- video background removal
 - change backgrounds for main notebook
 - support .jpeg images
 - upload python code for webcam support
