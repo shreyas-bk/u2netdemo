@@ -1,6 +1,8 @@
 # U-2-Net-Demo
 Demonstration using Google Colab to show how U-2-NET can be used for Background Removal, Changing Backgrounds, Bounding Box Creation, Salient Feature Highlighting and Salient Object Cropping
 
+*Please let me know if you would like to collaborate on building a website/web demo for this repo*
+
 ## Check out this article making use of this repository: [I REMOVED THE BACKGROUNDS FROM 11,782 JPGS FOR FREE! USING AI!](https://drivemarketing.ca/en/blog/i-removed-the-backgrounds-from-11-782-jpgs-for-free-using-ai/)
 
 # UPDATES: new - Salient Object Cropping notebook available
