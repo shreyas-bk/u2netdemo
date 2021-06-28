@@ -5,7 +5,7 @@ Demonstration using Google Colab to show how U-2-NET can be used for Background 
 
 ## Check out this article making use of this repository: [I REMOVED THE BACKGROUNDS FROM 11,782 JPGS FOR FREE! USING AI!](https://drivemarketing.ca/en/blog/i-removed-the-backgrounds-from-11-782-jpgs-for-free-using-ai/)
 
-# UPDATES: upcoming update - support multiprocessing to provide speed up for inferencing a large number of images
+# UPDATES: upcoming update - notebook for inferencing a large number of images
  - [Jan 11, 2021] - Salient Object Cropping notebook is now available following this [PR](https://github.com/shreyas-bk/U-2-Net/pull/1), thanks to the contribution from [**Norod**](https://github.com/Norod)!
  - [Jan 05, 2021] - **Keras .h5 saved models available** in new [repository](https://github.com/shreyas-bk/U-2-Net-Keras) following this [issue](https://github.com/shreyas-bk/U-2-Net-Demo/issues/9) *Note: if there are any new requests for a TensorFlow saved model, I will upload*
  - [Dec 24, 2020] - change background in step by step file: [commit](https://github.com/shreyas-bk/U-2-Net-Demo/commit/71c0c8ba726bcfa1c97ddb513265ef9deede1df1)
