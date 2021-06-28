@@ -62,6 +62,7 @@ The following is an excerpt from the paper:
 ![](Assets/U2NETPRmodel.png)
 
 TODO:
+- benchmarks
 - video background removal
 - change backgrounds for main notebook
 - support .jpeg images
