@@ -62,6 +62,9 @@ The following is an excerpt from the paper:
 ![](Assets/U2NETPRmodel.png)
 
 TODO:
+- remove dependancy to secondary repo
+- flask demo
+- multiproc cpu code
 - benchmarks
 - video background removal
 - change backgrounds for main notebook
