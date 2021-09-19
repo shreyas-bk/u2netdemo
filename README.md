@@ -63,6 +63,7 @@ The following is an excerpt from the paper:
 
 TODO:
 - remove dependancy to secondary repo
+- algorithmic post processing
 - flask demo
 - multiproc cpu code
 - benchmarks
