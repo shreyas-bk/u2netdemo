@@ -3,7 +3,10 @@ Demonstration using Google Colab to show how U-2-NET can be used for Background 
 
 *Please let me know if you would like to collaborate on building a website/web demo for this repo*
 
-## Check out this article making use of this repository: [I REMOVED THE BACKGROUNDS FROM 11,782 JPGS FOR FREE! USING AI!](https://drivemarketing.ca/en/blog/i-removed-the-backgrounds-from-11-782-jpgs-for-free-using-ai/)
+## Check out these articles making use of this repository: 
+[I REMOVED THE BACKGROUNDS FROM 11,782 JPGS FOR FREE! USING AI!](https://drivemarketing.ca/en/blog/i-removed-the-backgrounds-from-11-782-jpgs-for-free-using-ai/)
+
+[Medium: Large Scale Background Removal Using AI](https://medium.com/@shreykera7/large-scale-background-removal-using-ai-17d245b2cdb5)
 
 # UPDATES: upcoming update - notebook for inferencing a large number of images
  - [Jan 11, 2021] - Salient Object Cropping notebook is now available following this [PR](https://github.com/shreyas-bk/U-2-Net/pull/1), thanks to the contribution from [**Norod**](https://github.com/Norod)!
