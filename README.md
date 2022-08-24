@@ -1,7 +1,7 @@
 # U-2-Net-Demo
 Demonstration using Google Colab to show how U-2-NET can be used for Background Removal, Changing Backgrounds, Bounding Box Creation, Salient Feature Highlighting and Salient Object Cropping
 
-*Please let me know if you would like to collaborate on building a website/web demo for this repo*
+*Please let me know if you would like to collaborate on building a website/web demo for this repo or any other contributions*
 
 ## Check out these articles making use of this repository: 
 [Medium: Large Scale Background Removal Using AI](https://medium.com/@shreykera7/large-scale-background-removal-using-ai-17d245b2cdb5)
@@ -58,7 +58,7 @@ detection,” Pattern Recognition, vol. 106, p. 107404, 2020
 
 
 # Details about U-2-Net
-The following is an excerpt from the paper:
+The following is an excerpt from the paper: 
 *'In this paper, we design a simple yet powerful deep network architecture, U2-Net, for salient object detection (SOD). The architecture of our U2-Net is a two-level nested U-structure. The design has the following advantages: (1) it is able to capture more contextual information from different scales thanks to the mixture of receptive fields of different sizes in our proposed ReSidual U-blocks (RSU), (2) it increases the depth of the whole architecture without significantly increasing the computational cost because of the pooling operations used in these RSU blocks. This architecture enables us to train a deep network from scratch without using backbones from image classification tasks. We instantiate two models of the proposed architecture, U2-Net (176.3 MB, 30 FPS on GTX 1080Ti GPU) and U2-Net† (4.7 MB, 40 FPS), to facilitate the usage in different environments. Both models achieve competitive performance on six SOD datasets.'*
 
 # U2NET Model
